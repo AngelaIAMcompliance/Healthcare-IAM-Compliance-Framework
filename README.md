@@ -10,7 +10,7 @@ This project bridges **CompTIA Security+ concepts (AAA, RBAC, Least Privilege)**
 ## 📑 Full Assessment & Evidence Report
 The complete engineering architecture, configuration matrices, and visual proof of testing are documented in the formal report.
 
-👉 **[Click Here to View the Full Technical Compliance Report (PDF)](Healthcare_IAM_Compliance_Report.pdf)**
+👉 **[Click Here to View the Full Technical Compliance Report (PDF)](Healthcare-Solutions IAM Report.pdf)**
 
 ---
 
